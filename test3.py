@@ -2,7 +2,7 @@ print("Hello Malcolm! Your SolarEdge API Program is running!")
 
 import requests
 
-api_key = '&api_key=JX85Y9NLD7MOZXYSE8PLBPLQF7YH4GJH'
+api_key = '&api_key='
 base_url = 'http://monitoringapi.solaredge.com/sites/'
 
 # Get the fleet size
